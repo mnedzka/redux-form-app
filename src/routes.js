@@ -15,3 +15,7 @@ export default (
     <Route path="posts/new" component={PostsNew} />
   </Route>
 );
+
+{
+  /* <Route path="/" component={App} /> */
+}
